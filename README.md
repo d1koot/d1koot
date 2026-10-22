@@ -50,7 +50,7 @@ I focus on **clean architecture**, **testable code**, and solutions **ready for 
 
 <h3 align="center">
   <samp>&gt; Hello, my name is Dima, and I am known to a wide audience as d1koot or KooT
-    <b><a target="_blank" href="https://www.youtube.com/@...">d1koot</a></b>
+    <b><a target="_blank" href="https://www.youtube.com/@...">kosmy</a></b>
   </samp>
 </h3>
 

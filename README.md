@@ -74,7 +74,7 @@ I focus on **clean architecture**, **testable code**, and solutions **ready for 
 ## 📫 Contact
 
 <p align="left">
-  <a href="dikot13kv@gmail.com">
+  <a href="d1koot12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
